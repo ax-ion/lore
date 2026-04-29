@@ -14,7 +14,8 @@ lore/
 ├── business/     Business, finance, marketing, ops
 ├── product/      Product management and strategy
 ├── design/       UX, UI, branding, accessibility
-└── legal/        Contracts, IP, privacy, compliance
+├── legal/        Contracts, IP, privacy, compliance
+└── facilities/   Plant/facility engineering — ventilation, electrical, mechanical
 ```
 
 ---
